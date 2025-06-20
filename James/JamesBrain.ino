@@ -1,6 +1,7 @@
-void setup() {
-  // put your setup code here, to run once:
+const byte
 
+void setup() {
+  
 }
 
 void loop() {
