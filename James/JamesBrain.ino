@@ -1,10 +1,15 @@
-const byte
+// -------- PINS
+const byte LedPin = 0;
 
-void setup() {
-  
+// -------- VOICES
+const string VoicesPath = "./sounds/voices/";
+
+void setup()
+{
+    
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
 
 }
